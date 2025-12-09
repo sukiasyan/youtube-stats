@@ -1,0 +1,5 @@
+{
+  "/api/ai/seo/route": "app/api/ai/seo/route.js",
+  "/api/youtube/search/route": "app/api/youtube/search/route.js",
+  "/page": "app/page.js"
+}

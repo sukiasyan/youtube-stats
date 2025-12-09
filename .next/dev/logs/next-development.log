@@ -1,0 +1,15 @@
+[00:00:02.610] Server  LOG      ✓ Ready in 2.4s
+[00:01:03.179] Server  ERROR   Error searching channels: Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:01:03.220] Server  ERROR   Stats fetch failed Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:06:31.202] Server  ERROR   AI generation error: AI_LoadAPIKeyError: Google Generative AI API key is missing. Pass it using the 'apiKey' parameter or the GOOGLE_GENERATIVE_AI_API_KEY environment variable.
+[00:06:31.319] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:07:03.075] Server  ERROR   Error searching channels: Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:07:03.125] Server  ERROR   Stats fetch failed Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:07:10.748] Server  ERROR   Error searching channels: Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:07:10.791] Server  ERROR   Stats fetch failed Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:07:13.355] Server  ERROR   Error searching channels: Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:07:13.399] Server  ERROR   Stats fetch failed Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:07:14.410] Server  ERROR   Error searching channels: Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:07:14.450] Server  ERROR   Stats fetch failed Error: Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.
+[00:07:41.240] Server  ERROR   AI generation error: AI_LoadAPIKeyError: Google Generative AI API key is missing. Pass it using the 'apiKey' parameter or the GOOGLE_GENERATIVE_AI_API_KEY environment variable.
+[00:07:41.350] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
